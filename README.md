@@ -2,7 +2,7 @@
 
 <h3>💻 Web Developer / 🖥️ Designer { UI ; UX } with excellent comunication skills<h3>
 
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
 <div style="display: inline-block">
    
 <a href="mailto:israfreeway@gmail.com" target="_blank">
