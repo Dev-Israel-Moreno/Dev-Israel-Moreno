@@ -1,6 +1,7 @@
-### I'm Israel Moreno, a web developer with excellent comunication skills
+<h1>Hi there, I'm <span>Israel Moreno</span></h1>
 
-<hr>
+<h3>Web Developer / Designer { UI ; UX } with excellent comunication skills<h3>
+
 
 <div style="display: inline-block">
    
@@ -25,19 +26,21 @@
   
    
 </div>
+   
+   <br>
 
 
 
-Here are some ideas to get you started:
+I consider myself a person:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Communicative
+- 🌱 Positive
+- 👯 Perfectionist
+- 🤔 Creative
+- 💬 Passionate
+
+   
+    <br>
 
 <div>
 
