@@ -1,6 +1,6 @@
 <h1>Hi there, I'm <span>Israel Moreno</span></h1>
 
-<h3>Web Developer / Designer { UI ; UX } with excellent comunication skills<h3>
+<h3>💻 Web Developer / 🖥️ Designer { UI ; UX } with excellent comunication skills<h3>
 
 
 <div style="display: inline-block">
@@ -54,7 +54,7 @@ I consider myself a person:
 <div style="display: inline-block">
    
 
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=whiteg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
