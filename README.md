@@ -33,11 +33,11 @@
 
 I consider myself a person:
 
-- 🔭 Communicative
-- 🌱 Positive
-- 👯 Perfectionist
-- 🤔 Creative
-- 💬 Passionate
+- 📣 Communicative
+- ➕ Positive
+- 💯 Perfectionist
+- 👁️‍🗨️ Creative
+- 🧠 Passionate
 
    
     <br>
