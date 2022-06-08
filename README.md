@@ -1,4 +1,4 @@
-<h1>Hi there, I'm <span>Israel Moreno</span></h1>
+<h1>< Hi there, I'm <span>Israel Moreno /></span></h1>
 
 <h3>💻 Web Developer / 🖥️ Designer { UI ; UX } with excellent comunication skills<h3>
 
