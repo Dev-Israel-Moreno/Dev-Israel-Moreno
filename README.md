@@ -18,7 +18,7 @@
 </a>
    
    
-<a target="_blank" href="mailto:israfreeway@gmail.com">
+<a href="https://portafolio-israel-moreno.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
   
