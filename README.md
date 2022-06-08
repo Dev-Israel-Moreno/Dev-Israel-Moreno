@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-israel-moreno&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-israel-moreno&layout=compact&theme=tokyonight)](https://github.com/dev-israel-moreno/github-readme-stats)
+
+
+<img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
