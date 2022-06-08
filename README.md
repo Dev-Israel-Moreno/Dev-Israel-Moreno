@@ -38,10 +38,20 @@ Here are some ideas to get you started:
 </div>
 
 
-<div>
+
+<br>
+<div style="display: inline-block"><br>
    
-<a href="mailto:israfreeway@gmail.com"><img height="30" width="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+<a href="mailto:israfreeway@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+  
+<a href="mailto:israfreeway@gmail.com"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" /></a>
+
+<a href="mailto:israfreeway@gmail.com"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /></a>
    
 </div>
+
+
+
+
 
 
