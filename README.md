@@ -37,7 +37,7 @@ I consider myself a person:
 - ➕ Positive
 - 💯 Perfectionist
 - 👁️‍🗨️ Creative
-- 🧠 Passionate
+- 🚀 Passionate
 
    
     <br>
