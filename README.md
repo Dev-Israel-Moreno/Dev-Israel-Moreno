@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 
 
 <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+
+            <i class="devicon-adonisjs-original de colores"></i>
+          
