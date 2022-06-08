@@ -1,5 +1,7 @@
 ### I'm Israel Moreno, a web developer with excellent comunication skills
 
+<hr>
+
 
 Here are some ideas to get you started:
 
@@ -12,17 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<img src="https://github-readme-stats.vercel.app/api?username=dev-israel-moreno&show_icons=true&theme=tokyonight">
+<div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-israel-moreno&layout=compact&theme=tokyonight">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=dev-israel-moreno&show_icons=true&theme=tokyonight">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-israel-moreno&layout=compact&theme=tokyonight">
+   
+</div>
 
+<hr>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-israel-moreno&layout=compact&theme=tokyonight)](https://github.com/dev-israel-moreno/github-readme-stats)
-
-
-<div style="display: inline-block">
-
+<div style="display: inline-block"><br>
    
 
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -32,10 +33,15 @@ Here are some ideas to get you started:
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-          
-          
-          
-          
-             
+                     
           
 </div>
+
+
+<div>
+   
+<a href="mailto:israfreeway@gmail.com"><img height="30" width="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+   
+</div>
+
+
